@@ -29,10 +29,12 @@ JULIANA FERNANDES - 10503664----------------------------------------------------
 2. Data Preprocessing (Data cleaning, Shaping)
 
 RUSHAB S.L. GOWDA – 10504936------------------------------------------------------------
+
 3. Framing the Business questions 
 4. Analyzing the code and executing it  
 
 KARTHEEK PRASANNA - 10394030  ----------------------------------------------------------
+
 5. Forming different insights for the dataset
 6. Deploying the results in shiny.
 
